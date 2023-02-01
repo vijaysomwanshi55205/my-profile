@@ -6,7 +6,7 @@ Tools:
     1. VS Code
     2. GitHub Desktop
 
-Technology:
+Technology: 
     1.HTML
     2.CSS
     3.Bootstrap
